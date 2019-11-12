@@ -1,0 +1,2 @@
+nomeCliente = 'eduardo'
+len.nomeCliente()
